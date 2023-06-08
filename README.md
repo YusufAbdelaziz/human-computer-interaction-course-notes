@@ -20,6 +20,6 @@
 
 ## Acknowledgment
 
-- Huge shoutout to Dr. Abdallah Hassan (the instructor) as the notes are extensively based on his explanation and the slides.
+- Huge shoutout to [Dr. Abdallah Hassan](https://www.facebook.com/AbdallahHassanCSE) (the instructor) as the notes are extensively based on his explanation and the slides.
 - You can watch the course from [here](https://www.youtube.com/playlist?list=PLetGTI98ZxvqmlY2ARwOHtRyAlYESQdOR).
 
