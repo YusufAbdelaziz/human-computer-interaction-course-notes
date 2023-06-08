@@ -14,7 +14,12 @@
 
 [Lecture 7 & 8 - UX Practical Guide.](HCI%202538d8a5fe2a434bb9da091e71a30663/Lecture%207%20&%208%20-%20UX%20Practical%20Guide%20aac562b6e80046ac9ce4b6b87f29f410.md)
 
+## Notion Version
+
+- A notion version with good looking toggles is available [here](https://joeabdelaziz.notion.site/HCI-2538d8a5fe2a434bb9da091e71a30663).
+
 ## Acknowledgment
 
 - Huge shoutout to Dr. Abdallah Hassan (the instructor) as the notes are extensively based on his explanation and the slides.
 - You can watch the course from [here](https://www.youtube.com/playlist?list=PLetGTI98ZxvqmlY2ARwOHtRyAlYESQdOR).
+
